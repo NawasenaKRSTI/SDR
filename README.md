@@ -7,9 +7,8 @@
 - **Tipe Perangkat:** [Misal: ESP32, STM32, Raspberry Pi, dsb]
 - **Tanggal Mulai - Selesai:** [dd/mm/yyyy - dd/mm/yyyy]
 - **Status:** 🚧 _Dalam Pengembangan_ / ✅ _Selesai_ / 🧪 _Eksperimen_
-
+  
 ---
-
 ## 📚 Latar Belakang
 
 Jelaskan alasan mengapa riset ini dilakukan. Sertakan:
