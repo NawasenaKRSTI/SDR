@@ -48,10 +48,10 @@ Tabel berikut merinci tools dan teknologi utama yang digunakan dalam riset ini:
 
 | Komponen           | Deskripsi                                                | Versi                |
 |--------------------|----------------------------------------------------------|----------------------|
-| Platform           | [ESP32, STM32, Arduino, dsb.]                           |    Versi yang                    |
-| Bahasa Pemrograman  | [C/C++, MicroPython, dsb.]                               |digunakan|
-| IDE                | [Arduino IDE, STM32CubeIDE, dsb.]                        |tiap|
-| Komunikasi         | [UART, I2C, Bluetooth, WiFi, dsb.]                       |tools|
+| Platform           | [ESP32, STM32, Arduino, dsb.]                           |    Versi yang  digunakan  |
+| Bahasa Pemrograman  | [C/C++, MicroPython, dsb.]                               |Contoh : 1.11 |
+| IDE                | [Arduino IDE, STM32CubeIDE, dsb.]                        ||
+| Komunikasi         | [UART, I2C, Bluetooth, WiFi, dsb.]                       ||
 | Dependensi         | [Library eksternal atau modul tambahan]                  ||
 | Framework          | [Kerangka kerja yang digunakan, misalnya: SPL, STM32 HAL, PlatformIO] ||
 
