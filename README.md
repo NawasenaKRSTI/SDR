@@ -14,7 +14,7 @@ Dokumen ini bertujuan untuk menyusun dan mengarsipkan proses riset secara sistem
 
 ---
 
-## 1. 📚 Latar Belakang
+## 📚 Latar Belakang
 
 Jelaskan alasan mengapa riset ini dilakukan. Sertakan:
 - Masalah teknis atau ilmiah yang hendak diselesaikan.
@@ -23,7 +23,7 @@ Jelaskan alasan mengapa riset ini dilakukan. Sertakan:
 
 ---
 
-## 2. 🎯 Tujuan
+## 🎯 Tujuan
 
 Rinci tujuan riset secara umum dan khusus, seperti:
 - Tujuan utama yang ingin dicapai.
@@ -32,7 +32,22 @@ Rinci tujuan riset secara umum dan khusus, seperti:
 
 ---
 
-## 3. 🔬 Metodologi
+## 📁 Struktur Folder (Opsional)
+
+Jelaskan struktur direktori proyek untuk memudahkan navigasi:
+
+```
+📦 SDR                     → File utama
+├── 📂 src                 → Source code utama
+├── 📂 include             → Header file
+│   ├── 📂 arduino.h       → Header arduino
+│   └── 📂 wena.h          → Header Wena
+├── 📂 DOCS                → Dokumen pendukung dan SDR
+└── 📜 README.md           → Tempat SDR
+```
+---
+
+## 🔬 Metodologi
 
 Tabel berikut merinci tools dan teknologi utama yang digunakan dalam riset ini:
 
@@ -50,7 +65,7 @@ Tabel berikut merinci tools dan teknologi utama yang digunakan dalam riset ini:
 
 ---
 
-## 4. ⚙️ Perancangan Sistem
+## ⚙️ Perancangan Sistem
 
 Deskripsikan rancangan sistem secara keseluruhan:
 - Diagram arsitektur atau diagram blok sistem (sertakan gambar/link).
@@ -59,7 +74,7 @@ Deskripsikan rancangan sistem secara keseluruhan:
 
 ---
 
-## 5. 🧪 Eksperimen & Evaluasi
+## 🧪 Eksperimen & Evaluasi
 
 Dokumentasikan proses dan hasil pengujian:
 - Metode eksperimen: prosedur, skenario uji, setup perangkat.
@@ -69,7 +84,7 @@ Dokumentasikan proses dan hasil pengujian:
 
 ---
 
-## 6. 📊 Analisis & Pembahasan
+## 📊 Analisis & Pembahasan
 
 Bahas hasil eksperimen secara kritis:
 - Interpretasi hasil dan kaitannya dengan tujuan riset.
@@ -79,7 +94,7 @@ Bahas hasil eksperimen secara kritis:
 
 ---
 
-## 7. ✅ Kesimpulan & Rencana Lanjut
+## ✅ Kesimpulan & Rencana Lanjut
 
 Tuliskan ringkasan hasil riset:
 - Apakah tujuan riset telah tercapai?
@@ -88,7 +103,7 @@ Tuliskan ringkasan hasil riset:
 
 ---
 
-## 8. 🕒 Riwayat Revisi
+## 🕒 Riwayat Revisi
 
 Catat setiap perubahan besar pada dokumen ini:
 
@@ -96,23 +111,6 @@ Catat setiap perubahan besar pada dokumen ini:
 |-------|-------------|--------------------------|---------------|
 | 1.0   | YYYY-MM-DD  | Deskripsi awal           | Nama          |
 | 1.1   | YYYY-MM-DD  | Perubahan besar berikutnya| Nama          |
-
----
-
-## 9. 📁 Struktur Folder (Opsional)
-
-Jelaskan struktur direktori proyek untuk memudahkan navigasi:
-
-```
-
-/src          → Source code utama
-/include      → Header file
-/results      → Data eksperimen dan grafik
-/docs         → Dokumen pendukung dan SDR
-/scripts      → Tool bantu, script analisis, dsb.
-
-```
-
 ---
 
 📌 **Catatan:**  
