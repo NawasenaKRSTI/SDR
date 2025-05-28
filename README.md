@@ -82,3 +82,7 @@ Catat setiap perubahan besar pada dokumen ini:
 
 📌 **Catatan:**  
 Dokumen SDR ini wajib diperbarui secara berkala, minimal setiap akhir sprint atau fase utama proyek. Gunakan format ini sebagai dasar yang konsisten untuk seluruh tim dalam organisasi riset Workshop Robotika.
+
+
+**Contoh Riset**
+
