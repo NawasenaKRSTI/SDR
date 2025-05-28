@@ -46,14 +46,14 @@ Jelaskan struktur direktori proyek untuk memudahkan navigasi:
 
 Tabel berikut merinci tools dan teknologi utama yang digunakan dalam riset ini:
 
-| Komponen           | Deskripsi                                                |
-|--------------------|----------------------------------------------------------|
-| Platform           | [ESP32, STM32, Arduino, dsb.]                           |
-| Bahasa Pemrograman  | [C/C++, MicroPython, dsb.]                               |
-| IDE                | [Arduino IDE, STM32CubeIDE, dsb.]                        |
-| Komunikasi         | [UART, I2C, Bluetooth, WiFi, dsb.]                       |
-| Dependensi         | [Library eksternal atau modul tambahan]                  |
-| Framework          | [Kerangka kerja yang digunakan, misalnya: SPL, STM32 HAL, PlatformIO] |
+| Komponen           | Deskripsi                                                | Versi                |
+|--------------------|----------------------------------------------------------|----------------------|
+| Platform           | [ESP32, STM32, Arduino, dsb.]                           |    Versi yang                    |
+| Bahasa Pemrograman  | [C/C++, MicroPython, dsb.]                               |digunakan|
+| IDE                | [Arduino IDE, STM32CubeIDE, dsb.]                        |tiap|
+| Komunikasi         | [UART, I2C, Bluetooth, WiFi, dsb.]                       |tools|
+| Dependensi         | [Library eksternal atau modul tambahan]                  ||
+| Framework          | [Kerangka kerja yang digunakan, misalnya: SPL, STM32 HAL, PlatformIO] ||
 
 - Jelaskan algoritma atau teori yang diterapkan.
 - Jelaskan platform atau perangkat keras yang relevan.
