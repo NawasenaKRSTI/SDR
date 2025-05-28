@@ -1,11 +1,7 @@
 # Standarisasi Dokumentasi Riset (SDR)
-
-**Tujuan Dokumen:**  
-Dokumen ini bertujuan untuk menyusun dan mengarsipkan proses riset secara sistematis. Format ini dirancang untuk menjaga konsistensi dokumentasi di seluruh proyek riset di Workshop Robotika, agar memudahkan pemahaman lintas tim, evaluasi hasil, serta publikasi.
-
 ---
 
-## 📂 Ringkasan Riset
+##  📘 Tentang Riset:
 
 - **Tim/Divisi:** [Nama tim, misal: KRSTI / NAWASENA]
 - **Tipe Perangkat:** [Misal: ESP32, STM32, Raspberry Pi, dsb]
