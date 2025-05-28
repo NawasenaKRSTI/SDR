@@ -32,7 +32,7 @@ Rinci tujuan riset secara umum dan khusus, seperti:
 
 ---
 
-## 📁 Struktur Folder (Opsional)
+## 📁 Struktur Folder
 
 Jelaskan struktur direktori proyek untuk memudahkan navigasi:
 
