@@ -35,8 +35,8 @@ Jelaskan struktur direktori proyek untuk memudahkan navigasi:
 📦 SDR                     → File utama
 ├── 📂 src                 → Source code utama
 ├── 📂 include             → Header file
-│   ├── 📂 arduino.h       → Header arduino
-│   └── 📂 wena.h          → Header Wena
+│   ├── 📄 arduino.h       → Header arduino
+│   └── 📄 wena.h          → Header Wena
 ├── 📂 DOCS                → Dokumen pendukung dan SDR
 └── 📜 README.md           → Tempat SDR
 ```
